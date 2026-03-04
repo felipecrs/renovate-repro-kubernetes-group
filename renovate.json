@@ -1,5 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [":configMigration", "group:kubernetes"],
+  "extends": [":configMigration", "group:kubernetes", "group:k8s-ioMonorepo"],
   "dependencyDashboard": true
 }
